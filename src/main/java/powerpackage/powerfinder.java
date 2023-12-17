@@ -6,6 +6,7 @@ public class powerfinder {
         for (int i = 0; i<pqr; i++) {
             p *= xyz;
         }
+        //checking
         return p;
     }
 }
