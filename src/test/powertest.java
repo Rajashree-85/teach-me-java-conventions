@@ -3,24 +3,24 @@ package powerpackage;
 
 import org.junit.Test;
 
-public class powerfindertest {
+public class powerFindertest {
     @Test
-    public void one_raised_to_one_is_onew() {
-        assert powerfinder.OF(1,1) == 1;
+    public void oneRaisedPowerOneisOne() {
+        assert powerFinder.powerFinderOfNumber(1,1) == 1;
     }
 
     @Test
-    public void twoRaised_to_one_is_2() {
-        assert powerfinder.OF(2,1) == 2;
+    public void twoRaisedPowerOneisTwo() {
+        assert powerFinder.powerFinderOfNumber(2,1) == 2;
     }
 
     @Test
-    public void two_power_2_is_4() {
-        assert powerfinder.OF(2, 2) == 4;
+    public void twoRaisedPowerTwoisTwo() {
+        assert powerFinder.powerFinderOfNumber(2, 2) == 4;
     }
 
     @Test
-    public void power_of_2_and_3_Is_SIX() {
-        assert powerfinder.OF(3, 2) == 3*3;
+    public void threeRaisedPowerTwoisSix() {
+        assert powerFinder.powerFinderOfNumber(3, 2) == 3*3;
     }
 }

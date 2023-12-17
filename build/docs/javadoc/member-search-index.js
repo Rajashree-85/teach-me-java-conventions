@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"powerpackage","c":"powerFinder","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"powerpackage","c":"powerFinder","l":"powerFinder()","u":"%3Cinit%3E()"},{"p":"powerpackage","c":"powerFinder","l":"powerFinderOfNumber(int, int)","u":"powerFinderOfNumber(int,int)"}];updateSearchResults();

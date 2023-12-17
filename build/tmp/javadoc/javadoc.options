@@ -1,0 +1,7 @@
+-classpath 'C:\\Users\\india\\IdeaProjects\\teach-me-java-conventions\\build\\classes\\java\\main;C:\\Users\\india\\IdeaProjects\\teach-me-java-conventions\\build\\resources\\main'
+-d 'C:\\Users\\india\\IdeaProjects\\teach-me-java-conventions\\build\\docs\\javadoc'
+-doctitle 'teach-me-java-conventions 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'teach-me-java-conventions 1.0-SNAPSHOT API'
+'C:\\Users\\india\\IdeaProjects\\teach-me-java-conventions\\src\\main\\java\\powerpackage\\powerFinder.java'

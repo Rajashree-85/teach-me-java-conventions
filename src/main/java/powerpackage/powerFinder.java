@@ -6,10 +6,10 @@ public class powerFinder {
         int ans=powerFinderOfNumber(num1,num2);
         System.out.println(ans);
     }
-    public static int powerFinderOfNumber(int xyz, int pqr) {
-        int p = 1;
-        for (int i = 0; i<pqr; i++)
-            p *= xyz;
-        return p;
+    public static int powerFinderOfNumber(int base, int exponent) {
+        int ans = 1;
+        for (int counter = 0; counter<exponent; counter++)
+            ans*=base;
+        return ans;
     }
 }
